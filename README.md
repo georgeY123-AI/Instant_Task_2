@@ -1,6 +1,6 @@
-# task_1
+# task_2
 ---
-### Task 1
+### Task 2
 
 1. **Programming Languages with and without Garbage Collection (GC)**
    - List programming languages that have Garbage Collection (GC) and those that do not.
